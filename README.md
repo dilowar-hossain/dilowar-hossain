@@ -17,11 +17,11 @@
 
 💬 Ask me about...  **_Web development_**
 
-## 🛠 Skills
+### 🛠 Skills
 Java, Python, HTML, CSS, Javascript, React.js...
 
 
-## 🚀 About Me
+### 🚀 About Me
 **_I'm a Software Developer ..._**
 
 ## 🔗 Links
