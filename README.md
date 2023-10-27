@@ -4,7 +4,7 @@
 
 * > I am currently learning Web Technologies and Programming Languages
 
-* > Contact me : [email](dilowar101@gmail.com)
+* Contact me : [@dilowar](mailto:dilowar101@gmail.com)
 
 
 #My Activities
