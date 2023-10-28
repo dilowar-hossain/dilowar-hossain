@@ -28,7 +28,9 @@
 
 
 
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)[![GitHub](https://img.shields.io/badge/-GitHub-%237C8495?style=flat-square&logo=github&logoColor=%23282C34)]()[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-%237C8495?style=flat-square&logo=github&logoColor=%23282C34)]()
+[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 
 ### 🚀 About Me
