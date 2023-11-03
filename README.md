@@ -43,8 +43,23 @@
 
 
 
+## 𝗦𝘁𝗮𝘁𝘀
 
+<a href="https://github.com/dilowar-hossain">
+    <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=dilowar-hossain&show_icons=true&theme=tokyonight&count_private=true" alt="dilowar-hossain's github stats" />
+    <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilowar-hossain&theme=tokyonight&layout=compact"
+    alt="Top languages" />
+</a>
+<br/>
+<br/>
 
+<!-- [![visitors](https://visitor-badge.laobi.icu/badge?page_id=dilowar-hossain.dilowar-hossain)]()
+[![GitHub](https://img.shields.io/github/followers/dilowar-hossain.svg?label=GitHub&style=social)](https://github.com/dilowar-hossain?tab=followers)
+ -->
 
 
 <!--
